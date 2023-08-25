@@ -1,4 +1,3 @@
-# IMC-APP
 
 <h1 align="center">:file_cabinet: IMP-APP</h1>
 
