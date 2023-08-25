@@ -5,7 +5,7 @@
 Aplicativo para calcular o IMC (índice de massa corporal) feito em Java para a matéria de Maturidade em Desenvolvimento de Software.
 
 ## :books: Funcionalidades
-* <b>Funcionalidades </b>: Através deste app o usuário poderá fazer uma cálculo para descobrir se está ou não acima do peso.
+* <b>Funcionalidades </b>: Através deste app o usuário poderá fazer um cálculo para descobrir se está ou não acima do peso.
 
 ## :wrench: Tecnologias utilizadas
 * Java
