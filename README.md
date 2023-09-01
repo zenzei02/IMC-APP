@@ -1,5 +1,5 @@
 
-<h1 align="center">:file_cabinet: IMC-APP</h1>
+<h1 align="center">:file_cabinet: Peso Ideal - APP</h1>
 
 ## :memo: Descrição
 Aplicativo para calcular o IMC (índice de massa corporal) feito em Java para a matéria de Maturidade em Desenvolvimento de Software.
