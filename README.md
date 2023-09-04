@@ -12,7 +12,7 @@ Aplicativo para calcular o IMC (índice de massa corporal) feito em Java para a 
 ## :soon: Implementação futura
 * Projeto poderá sofrer alterações.
 
-## ![image](https://github.com/zenzei02/IMC-APP/assets/101060169/b2b2b224-62e4-438e-a7cf-4372430804a2) Mockup
+## 🗒️ Mockup
 <table>
   <tr>
     <td align="center">
