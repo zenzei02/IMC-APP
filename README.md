@@ -40,3 +40,15 @@ Aplicativo para calcular o IMC (índice de massa corporal) feito em Java para a 
 
 ## :dart: Status do projeto
 * Em andamento.
+
+## Requisitos
+1. Autentificação
+2. MVP
+3. Notificação Push
+4. Algoritimo de busca
+5. Menu
+6. i18n
+7. L10n
+8. Sensor Biométrico
+9. Navigation bar
+10. Gradle
